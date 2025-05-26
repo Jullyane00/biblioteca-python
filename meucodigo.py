@@ -42,3 +42,9 @@ while True:
         if not encontrado:
             print("Livro não encontrado!")
         print("*"*20)
+
+    elif opcao == 4:
+        print("Emprestar Livro")
+        titulo = input("Digite o título do livro:")
+        print("Livro emprestado com sucesso!")
+        print("*"*20)
