@@ -48,3 +48,7 @@ while True:
         titulo = input("Digite o título do livro:")
         print("Livro emprestado com sucesso!")
         print("*"*20)
+
+elif opcao == 5:
+        print("Devolver Livro")
+        titulo = input("Digite o título do livro:")
