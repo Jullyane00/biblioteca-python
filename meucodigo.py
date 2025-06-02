@@ -52,3 +52,5 @@ while True:
 elif opcao == 5:
         print("Devolver Livro")
         titulo = input("Digite o título do livro:")
+        print("Livro devolvido com sucesso!")
+        print("*"*20)
