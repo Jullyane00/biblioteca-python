@@ -49,13 +49,13 @@ while True:
         print("Livro emprestado com sucesso!")
         print("*"*20)
 
-elif opcao == 5:
-        print("Devolver Livro")
-        titulo = input("Digite o título do livro:")
-        print("Livro devolvido com sucesso!")
-        print("*"*20)
-
-elif opcao == 6:
-        print("Saindo do Sistema")
-        print("*"*20)
-        break
+    elif opcao == 5:
+            print("Devolver Livro")
+            titulo = input("Digite o título do livro:")
+            print("Livro devolvido com sucesso!")
+            print("*"*20)
+    
+    elif opcao == 6:
+            print("Saindo do Sistema")
+            print("*"*20)
+            break
