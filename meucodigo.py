@@ -83,3 +83,7 @@ while True:
         print("Saindo do Sistema")
         print("*"*20)
         break
+
+    else:
+        print("Opção inválida!")
+        print("*"*20)
